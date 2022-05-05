@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/Version-3.1.0-green)]()
 [![Python](https://img.shields.io/badge/Python-v3.9-yellow)]()
-[![Discord](https://img.shields.io/badge/Discord-server-blue)](https://discord.gg/VYRAZg5)
+[![Discord](https://img.shield.io/badge/Discord-server-blue)](https://discord.gg/VYRAZg5)
 [![Donate](https://img.shields.io/badge/PayPal-donate-orange)](https://www.paypal.me/Msheikh03)
 
 This program will brute force any Instagram account you send it its way given a list of proxies.
@@ -52,7 +52,8 @@ usage: instagram.py [-h] [-u USERNAME] [-p PASSLIST] [-px PROXYLIST] [--prune PR
 
 optional arguments:
   -h, --help            show this help message and exit
-  -u USERNAME, --username USERNAME
+  -u USERNAME, --username Whitneydaily
+
                         email or username
   -p PASSLIST, --passlist PASSLIST
                         password list
